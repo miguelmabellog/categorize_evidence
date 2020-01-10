@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RUD</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="violaciones_DDHH">
+        <item>Exceso de fuerza</item>
+        <item>Uso potencialmente letal de armas de letalidad reducida</item>
+        <item>Uso de armamento no convencional</item>
+        <item>Violacion de protocolo de accion y verificacion DDHH</item>
+        <item>Amenazas,presiones o seguimientos ilegales</item>
+        <item>Amenazas o agresion a defensores o prensa</item>
+        <item>Agente sin identificación</item>
+        <item>Incapacidad de distinguir manifestantes de poblacion civil</item>
+        <item>Retención y conduccion arbitraria</item>
+        <item>Herido</item>
+        <item>Genero</item>
+
+
+    </string-array>
+
+</resources>

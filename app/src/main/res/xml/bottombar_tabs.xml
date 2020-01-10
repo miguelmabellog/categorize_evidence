@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+        id="@+id/statistics"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_estadistica"
+        />
+
+    <tab
+        id="@+id/home"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_home"
+        />
+
+    <tab
+        id="@+id/custody"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_cops"
+        />
+
+</tabs>

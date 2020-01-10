@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573461350773",
+    "firebase_url": "https://derechos-humanos-e7dd7.firebaseio.com",
+    "project_id": "derechos-humanos-e7dd7",
+    "storage_bucket": "derechos-humanos-e7dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573461350773:android:296310a3c274356b86eb3c",
+        "android_client_info": {
+          "package_name": "com.example.rud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573461350773-5b5trc01d75i5n5sacc7ojc70b4lom1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rud",
+            "certificate_hash": "01dbf622070880cc861cd5479899b67eecc0790a"
+          }
+        },
+        {
+          "client_id": "573461350773-kqlc8q64g03r05hubd5v2t8f9jjucj6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6MCCwRhYfqL0DW1J0qbHhjsxoj3IWeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573461350773-kqlc8q64g03r05hubd5v2t8f9jjucj6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
