@@ -7,4 +7,4 @@ This code is from an android aplication, with this aplication you can organice p
 This app is conected with firebase therefore you must to create a new database and change this conexion, busides you should create a new user and password to be able sign in the firebase auth, as you can see in the image theres not option to create new user from the app so you should create it from firebase console.
 
 
-<img src="imagesapp/Singin.png" width="100" >
+<img src="imagesapp/Singin.png" width="150" >
