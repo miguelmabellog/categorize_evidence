@@ -19,6 +19,21 @@ When you achive to run the app you will see the home view, in this view you can 
 
 From this view you can open the folder when you click at search button and you click the resepective date.
 
-<img src="imagesapp/carpetas.png" width="150" >
+<img src="imagesapp/fechas.png" width="150" >
+
+Then you will see all files in the folder that you selected, in this view you can select the file to see the description for this evidence, busside you can watch the video or photo that support this evidence. 
+
+<img src="imagesapp/archivos.png" width="150" >
+
+if you want to upload some photo or video you have to open the respective file and use the option of share then you will be able to select the option to share with this aplication
+
+<img src="imagesapp/compartir.png" width="150" >
+
+finally the most important feacture for this app is that you can observe the statitics information from every evidence that you were upload, this option is in navigation menu the left item, you will somenthing like this.
+
+
+<img src="imagesapp/estadisiticas.png" width="150" >
+
+
 
 
