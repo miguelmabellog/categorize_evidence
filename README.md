@@ -13,7 +13,7 @@ This app is connected with Firebase thus you must create a new database and chan
 
 You should be careful with gradle files because it's very probable when you download this project there would be new versions of libraries. 
 
-When you achive to run the app you will see the home view, in this view you can create a folder with the plus button where you can describe the place, date and context of the folder you want create, if you had created any folder before you can see in the home page.
+When you achieve to run the app you will see the home view, in this view you can create a folder with the plus button where you can describe the place, date and context of the folder you want create, if you had created any folder before you can see in the home page.
 
 <img src="imagesapp/carpetas.png" width="150" >
 
@@ -25,14 +25,14 @@ Then you will see all files in the folder that you selected, in this view you ca
 
 <img src="imagesapp/archivos.png" width="150" >
 
-if you want to upload some photo or video you have to open the respective file and use the option of share then you will be able to select the option to share with this aplication
+if you want to upload any photo or video you have to open the respective file and use the option of share then you will be able to select the option to share with this application
 
 <img src="imagesapp/compartir.png" width="150" >
 
-finally the most important feacture for this app is that you can observe the statitics information from every evidence that you were upload, this option is in navigation menu the left item, you will somenthing like this.
+finally the most important feacture for this app is that you can observe the statitics information from every evidence that you were upload, this option is in navigation menu the left item, you will something like this.
 
 
-<img src="imagesapp/estadisiticas.png" width="150" >
+<img src="imagesapp/estadisticas.png" width="150" >
 
 
 
