@@ -8,3 +8,13 @@ This app is connected with Firebase thus you must create a new database and chan
 
 
 <img src="imagesapp/Singin.png" width="150" >
+
+## Running the project
+
+You should be careful with gradle files because it's very probable when you download this project there would be new versions of libraries. 
+
+when you achive to run the app you will see the home view, in this view you can create a folder with the plus button where you can describe the place, date and context of the folder you want create, if you had created any folder before you can see in the home page.
+
+
+
+
