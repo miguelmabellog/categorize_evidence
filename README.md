@@ -25,11 +25,11 @@ Then you will see all files in the folder that you selected, in this view you ca
 
 <img src="imagesapp/archivos.png" width="150" >
 
-if you want to upload any photo or video you have to open the respective file and use the option of share then you will be able to select the option to share with this application
+If you want to upload any photo or video you have to open the respective file and use the option of share then you will be able to select the option to share with this application
 
 <img src="imagesapp/compartir.png" width="150" >
 
-finally the most important feacture for this app is that you can observe the statitics information from every evidence that you were upload, this option is in navigation menu the left item, you will something like this.
+Finally the most important feacture for this app is that you can observe the statitics information from every evidence that you were upload, this option is in navigation menu the left item, you will something like this.
 
 
 <img src="imagesapp/estadisticas.png" width="150" >
