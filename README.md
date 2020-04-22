@@ -34,6 +34,9 @@ Finally the most important feacture for this app is that you can observe the sta
 
 <img src="imagesapp/estadisticas.png" width="150" >
 
+##License 
+
+Application developed by Miguel Angel Bello Garcia, github @miguelmabg
 
 
 
