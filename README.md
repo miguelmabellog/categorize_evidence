@@ -36,7 +36,7 @@ Finally the most important feacture for this app is that you can observe the sta
 
 ## License
 
-Application developed by Miguel Angel Bello Garcia, github @miguelmabg
+Application developed by Miguel Angel Bello Garcia, github @miguelmabellog
 
 
 
